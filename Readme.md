@@ -1,0 +1,1 @@
+This project was created using 3 projects from Codeplayer.com, i added some new features including additional clouds, the grass, trees and animated sun, all using HTMl and CSS animations, the sun runs across every 60s the clouds run at varius times. I hop you enjoy it as much as i enjoyed creating it.
