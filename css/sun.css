@@ -1,0 +1,33 @@
+.sun {
+    height: 150px; width: 150px;
+    left: 20%; 
+    background-color: yellow;
+    position: absolute; top: -15px;
+    z-index: 1;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    
+    animation: movesun 60s linear infinite;
+    -webkit-animation: movesun 60s linear infinite;
+    -moz-animation: movesun 60s linear infinite;
+    -o-animation: movesun 60s linear infinite;
+    
+}
+
+@keyframes movesun {
+    0% { margin-left: 1000px; }
+    100% { margin-left: -1000px; }
+}
+@-webkit-keyframes movesun {
+    0% { margin-left: 1000px; }
+    100% { margin-left: -1000px; }
+}
+@-moz-keyframes movesun {
+    0% { margin-left: 1000px; }
+    100% { margin-left: -1000px; }
+}
+@-o-keyframes movesun {
+    0% { margin-left: 1000px; }
+    100% { margin-left: -1000px; }
+}

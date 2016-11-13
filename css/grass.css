@@ -1,0 +1,65 @@
+.ground {
+    background-color: green;
+    width: 100%; height: 70px;
+    position: absolute; bottom: 0px;
+}
+
+.blade1, .blade2, .blade3, .blade4, .blade5, .blade6, .blade7, .blade8, .blade9, .blade10, .blade11, .blade12 {
+    width: 4px; height: 35px;
+    position: absolute; top: -30px;
+    background-color: green;
+}
+
+.blade1, .blade4, .blade7, .blade10 {
+    transform: rotate(-30deg);
+    -webkit-transform: rotate(-30deg);
+    -moz-transform: rotate(-30deg);
+}
+
+.blade3, .blade6, .blade9, .blade12 {
+    transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    -moz-transform: rotate(30deg);
+}
+.blade1 {
+    left: 100px;
+    
+}
+.blade2 {
+    left: 115px;
+}
+.blade3 {
+    left: 130px;
+    
+}
+.blade4 {
+    left: 400px;
+    
+}
+.blade5 {
+    left: 415px;
+}
+.blade6 {
+    left: 430px;
+    
+}
+.blade7 {
+    left: 700px;
+    
+}
+.blade8 {
+    left: 715px;
+}
+.blade9 {
+    left: 730px;
+    
+}
+.blade10 {
+    left: 1000px;
+}
+.blade11 {
+    left: 1015px;
+}
+.blade12 {
+    left: 1030px;
+}
