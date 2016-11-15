@@ -1,1 +1,3 @@
-This project was created using 3 projects from Codeplayer.com, i added some new features including additional clouds, the grass, trees and animated sun, all using HTMl and CSS animations, the sun runs across every 60s the clouds run at varius times. I hop you enjoy it as much as i enjoyed creating it.
+This project was created using 3 projects from Codeplayer.com, i added some new features including additional clouds, the grass, trees and animated sun, all using HTMl and CSS animations, the sun runs across every 60s the clouds run at varius times. I hope you enjoy it as much as i enjoyed creating it.
+
+program can be found at <a href="www.ggetchell.com/Animated-Scenery/clouds.html">Animated Scenery</a>
